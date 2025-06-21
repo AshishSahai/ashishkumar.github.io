@@ -4,7 +4,6 @@ title: "About Me"
 permalink: /about/
 ---
 
-# About Me
 
 I’m Ashish Kumar — a self-taught data analyst with a story rooted in resilience, reinvention, and self-belief.
 
