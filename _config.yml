@@ -115,19 +115,19 @@ analytics:
 author:
   name             : "Ashish Kumar"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Self-taught data analyst skilled in Python, SQL, Power BI, and machine learning. Turned personal setbacks into real-world projects — with a deep focus on clarity, growth, and resilience through data."
   location         : "Delhi"
   email            : "ashish07kumars@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "linkedin.com/in/ashish-sa-kumar"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -144,9 +144,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "linkedin.com/in/ashish-sa-kumar"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AshishSahai"
@@ -156,9 +156,9 @@ footer:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:your.name@email.com"
 
 
 # Reading Files
