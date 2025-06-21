@@ -121,7 +121,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "ashish07kumars@gmail.com"
+      #url: "ashish07kumars@gmail.com"
     - label: "Resume"
       icon: "fas fa-file-pdf"
       url: "/assets/Resume.pdf"
