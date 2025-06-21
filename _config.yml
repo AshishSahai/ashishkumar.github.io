@@ -133,7 +133,7 @@ author:
       url: "https://github.com/ashishkumar-data"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "linkedin.com/in/ashish-sa-kumar"
+      url: "https://www.linkedin.com/in/ashish-sa-kumar/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -149,7 +149,7 @@ footer:
       # url:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "linkedin.com/in/ashish-sa-kumar"
+      url: "https://www.linkedin.com/in/ashish-sa-kumar/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ashishkumar-data"
