@@ -8,12 +8,16 @@ permalink: /projects/
 - Tools: Python, SQL, Power BI, Machine Learning
 - [GitHub Repo](https://github.com/AshishSahai/Insurance-Data-Analysis)
 
-### 📈 ECommerce Data Analysis  
+### 🛒 ECommerce Data Analysis  
 - Tools: 
     Python (Pandas, Matplotlib), Power BI Desktop, Jupyter Notebook / PyCharm, DAX
 
 - [GitHub Repo](https://github.com/AshishSahai/Ecommerce-Data-Analysis)
 
-### 📈 Trump Tariff Analysis 
+### 📊 Trump Tariff Analysis 
 - Tools: scikit-learn, NumPy  
 - [GitHub Repo](https://github.com/AshishSahai/Trump-Tariff-Analysis)
+
+### 🛒 Monthly Sales Analysis
+- Tools: Pandas, Matplotlib
+- [GitHub Repo](https://github.com/AshishSahai/Monthly-Sales-Summary)

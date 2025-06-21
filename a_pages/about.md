@@ -9,6 +9,10 @@ I’m Ashish Kumar — a self-taught data analyst with a story rooted in resilie
 
 After stepping away from my career as a validation engineer, I made the choice to build a new path — one grounded in real-world data, problem solving, and consistent learning. The journey hasn’t been easy. I’ve faced financial strain, family expectations, and personal setbacks. But in all of that, I never stopped showing up.
 
+If you're interested in working together or want to learn more about my background...
+
+👉 [📄 Download My Resume](/assets/Ashish_ML_Updated_Resume.pdf)
+
 ---
 
 ### What I Do
