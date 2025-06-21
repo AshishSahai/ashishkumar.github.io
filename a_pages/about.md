@@ -11,7 +11,7 @@ After stepping away from my career as a validation engineer, I made the choice t
 
 If you're interested in working together or want to learn more about my background...
 
-👉 [📄 Download My Resume](/assets/Ashish_ML_Updated_Resume.pdf)
+👉 [📄 Download My Resume](/assets/Resume.pdf)
 
 ---
 
