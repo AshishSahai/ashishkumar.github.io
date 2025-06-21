@@ -130,7 +130,7 @@ author:
       # url: "https://your-website.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/AshishSahai"
+      url: "hhttps://github.com/ashishkumar-data"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "linkedin.com/in/ashish-sa-kumar"
@@ -152,7 +152,7 @@ footer:
       url: "linkedin.com/in/ashish-sa-kumar"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/AshishSahai"
+      url: "https://github.com/ashishkumar-data"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:

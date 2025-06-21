@@ -34,4 +34,4 @@ Built to mirror challenges encountered during freelance consulting for a real-wo
 - Visual trend analysis  
 - CSV export and dynamic reporting
 
-🔗 [View on GitHub](https://github.com/AshishSahai/weekly-sales-analyser)
+🔗 [View on GitHub](https://github.com/ashishkumar-data/weekly-sales-analyser)
