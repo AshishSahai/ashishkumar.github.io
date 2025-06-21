@@ -51,6 +51,6 @@ I approach every dataset like I approach life: patiently, thoroughly, and with f
 
 If you’re looking for someone who can learn fast, communicate clearly, and turn noise into insight — I’d love to connect.
 
-- [GitHub]( github.com/AshishSahai )
+- [GitHub](github.com/AshishSahai)
 - [LinkedIn](linkedin.com/in/ashish-sa-kumar)
 - 📧 ashish07kumars@gmail.com
