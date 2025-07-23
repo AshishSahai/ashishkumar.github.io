@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-I'm Ashish Kumar — an SDET with a strong foundation in automation and data analysis, and the founder of A28 AI Lab (registered under the Government of India).
+I'm Ashish Kumar — An SDET with a strong foundation in automation and data analysis, and the founder of A28 AI Lab (registered under the Government of India).
 
 I began my career validating complex systems while also taking initiative to automate testing workflows — a habit that eventually shaped my transition into building intelligent, scalable tools. Along the way, I also taught myself data analysis to strengthen my ability to solve real-world problems with logic, structure, and evidence.
 
