@@ -5,13 +5,13 @@ permalink: /about/
 ---
 
 
-I’m Ashish Kumar — a automation engineer, data analyst and former validation engineer with a story rooted in resilience, reinvention, and self-belief.
+I'm Ashish Kumar — an SDET with a strong foundation in automation and data analysis, and the founder of A28 AI Lab (registered under the Government of India).
 
-With a background in validation engineering and a strong focus on automation and system reliability, I’ve worked hands-on with QA processes, test automation, and performance validation. Over time, I developed a deep interest in data — leading me to independently pursue data analytics and apply those skills across real-world projects.
+I began my career validating complex systems while also taking initiative to automate testing workflows — a habit that eventually shaped my transition into building intelligent, scalable tools. Along the way, I also taught myself data analysis to strengthen my ability to solve real-world problems with logic, structure, and evidence.
 
-This journey has been built on consistency, curiosity, and a commitment to mastering both quality engineering and data-driven problem solving.
+At A28 AI Lab, I built products like SkillScope, an AI-powered resume analyzer and job description matcher, and DripDesk, an automation platform for email workflows. These projects involved developing NLP-driven pipelines, designing automation test flows, and deploying production-ready tools — all from scratch.
 
-If you're looking for someone who bridges the gap between test automation and analytical thinking — let's connect.
+Through every phase — from hands-on automation to startup execution — I’ve stayed grounded in curiosity, clarity, and impact. If you're looking for someone who blends QA precision, automation thinking, and analytical depth — I’d be excited to connect.
 
 👉 [📄 Download My Resume](/assets/Resume.pdf)
 
