@@ -5,11 +5,13 @@ permalink: /about/
 ---
 
 
-I’m Ashish Kumar — a self-taught data analyst with a story rooted in resilience, reinvention, and self-belief.
+I’m Ashish Kumar — a automation engineer, data analyst and former validation engineer with a story rooted in resilience, reinvention, and self-belief.
 
-After stepping away from my career as a validation engineer, I made the choice to build a new path — one grounded in real-world data, problem solving, and consistent learning. The journey hasn’t been easy. I’ve faced financial strain, family expectations, and personal setbacks. But in all of that, I never stopped showing up.
+With a background in validation engineering and a strong focus on automation and system reliability, I’ve worked hands-on with QA processes, test automation, and performance validation. Over time, I developed a deep interest in data — leading me to independently pursue data analytics and apply those skills across real-world projects.
 
-If you're interested in working together or want to learn more about my background...
+This journey has been built on consistency, curiosity, and a commitment to mastering both quality engineering and data-driven problem solving.
+
+If you're looking for someone who bridges the gap between test automation and analytical thinking — let's connect.
 
 👉 [📄 Download My Resume](/assets/Resume.pdf)
 
@@ -20,6 +22,7 @@ If you're interested in working together or want to learn more about my backgrou
 I work with real-world data — the kind that’s messy, incomplete, and full of insight. I use:
 
 - **Python & Pandas** for data cleaning, wrangling, and analysis  
+- **Selenium WebDriver** for automating test cases
 - **SQL** for querying relational databases and joining insights across tables  
 - **Power BI** for building dashboards that drive decisions  
 - **Matplotlib & Seaborn** for turning data into visual stories  
